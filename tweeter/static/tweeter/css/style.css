@@ -31,7 +31,7 @@ body {
   padding: 30px;
   border: 2px solid gray;
   border-radius: 10px;
-  overflow: hidden;
+#  overflow: hidden;
 }
 
 .new-tweet-input {
@@ -72,7 +72,7 @@ body {
   font-style: italic;
   margin-bottom: 10px;
   font-size: 12px;
-  overflow: hidden;
+#  overflow: hidden;
 }
 
 .tweet-name {
@@ -94,7 +94,7 @@ body {
   padding: 30px;
   border: 2px solid gray;
   border-radius: 10px;
-  overflow: hidden;
+#  overflow: hidden;
 }
 
 .ul-profile {
